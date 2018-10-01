@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDo Task</string>
+
+    <string name="spinnerTitle">Catégorie</string>
+
+    <string-array name="Categorys">
+        <item>Evenement</item>
+        <item>Rendez-vous</item>
+        <item>Anniversaire</item>
+        <item>Travail à faire</item>
+    </string-array>
+</resources>
